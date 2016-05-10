@@ -1,0 +1,14 @@
+#leftbar {
+    display: none;
+}
+
+#price {
+    font-size: 30px;
+    height: 76px;
+    line-height: normal;
+    vertical-align: middle;
+}
+
+div.orderbook {
+    height: 160px;
+}
